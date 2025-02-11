@@ -57,7 +57,7 @@ Follow these steps to set up the project:
 1. **Clone the Repository:**
 
    ```bash
-   git clone https://github.com/yourusername/ros2-q-learning-grid.git
+   git clone https://github.com/karan845/Q-learning-pkg-for-ros2.git
    cd ros2-q-learning-grid
    ```
 
